@@ -1,1 +1,1 @@
-Algorithm practice space studying book 'grokking algorithms'.
+Algorithm practice space - programmers, studying book 'grokking algorithms'.
